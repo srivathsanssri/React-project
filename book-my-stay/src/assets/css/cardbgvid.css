@@ -1,0 +1,14 @@
+/* Cardbgvid.css */
+
+.cardContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px; /* Adjust margin as needed */
+  }
+  
+  .card {
+    width: 48%; /* Adjust width as needed */
+  }
+  
+  /* Add more styles as needed */
+  
