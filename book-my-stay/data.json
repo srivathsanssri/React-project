@@ -1,0 +1,20 @@
+{
+  "LogInData": [
+    {
+      "name": "srivathsan",
+      "email": "727722eucs181@skcet.ac.in",
+      "mn": "07418912424",
+      "pass": "727722eucs181@skcet.ac.in",
+      "address": "727722eucs181@skcet.ac.in",
+      "id": 1
+    },
+    {
+      "name": "Sanjay",
+      "email": "12345",
+      "mn": "121314",
+      "pass": "12345",
+      "address": "asda",
+      "id": 2
+    }
+  ]
+}
